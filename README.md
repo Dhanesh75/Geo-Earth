@@ -33,7 +33,7 @@ First Floating button allows you to gather earthquake data from a specific regio
   
 Second Floating button will visualize all the earthquakes currently displaying on the Map using Google Maps API
 
-Third Floating button will analyze the current earthquakes and will predict the most likely regions in which earthquake can occur with a probability.
+Third Floating button will analyze the current earthquakes and will predict the most likely region(s) in which earthquake can occur with a probability.
 
 Screenshots
 ---------
